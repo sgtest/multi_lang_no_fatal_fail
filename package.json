@@ -1,0 +1,17 @@
+{
+  "name": "malformed-js",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgtest/multi_lang_no_fatal_fail"
+  },
+  "main": "blah",
+  "version": "0.0.1",
+  "author": {
+    "name": "Beyang Liu",
+    "email": "beyang@sourcegraph.com"
+  },
+  "devDependencies": {
+    "mocha": "FAILFAILFAIL"
+  }
+}
